@@ -13,7 +13,7 @@ const ProjectCardData =[
     imgsrc: Projectphoto,
     title: "Portfolio Website Design",
     Text: "This is my First ever project in React Js",
-    view: "https://www.fb.com" ,
+    view: "https://www.dipeshkafle.com.np/" ,
     source: "https://github.com/Dhananjya/Portfolio_web",
 },
 {

@@ -4,10 +4,11 @@
 }
 
 .prject-container{
+    float: right;
     max-width: 1140px;
     margin: auto;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 3fr);
     grid-gap: 40px;
     padding-bottom: 5rem;
 }
@@ -15,6 +16,7 @@
 .project-card{
     background: #1a1919;
     padding: 1.2rem 1rem;
+    float: left;
 
 }
 
@@ -50,7 +52,7 @@
         max-width: 90%;
         margin: auto;
 
-        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
     }
     
 }
