@@ -35,7 +35,7 @@ const Footer = () => {
             <div className="right">
             <h4> About My Experiences</h4>
             <p> Hi this is me Dipesh Kaphle. I am Intrested in Software Development and Designing.
-                 I am recently join this community hope you approciate me and my work. </p>
+                 I have recently join this community hope you approciate me and my work. </p>
 
                  <div className="social">
                    <a href="https://www.facebook.com/deepesh.kafle.7/" target="_blank" ><FaFacebook size={20} style={{color: "#fff", marginRight: "2rem"}} 
