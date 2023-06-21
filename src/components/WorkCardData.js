@@ -1,5 +1,6 @@
 import Projectphoto from "../img/Projectphoto.jpg"
 import TodoPhoto from "../img/color Change.jpg"
+import Menu from "../img/Menu1.jpg"
 import "./WorkCardStyles.css"
 
 
@@ -20,8 +21,15 @@ const ProjectCardData =[
     imgsrc: TodoPhoto,
     title:"To_Do List Design" ,
     Text: "Second Project On React Js",
-    view: "https://github.com/Dhananjya/ToDo-List/blob/master/todo.pdf",
+    view: "https://to-do-list-sigma-plum.vercel.app/",
     source: "https://github.com/Dhananjya/ToDo-List",
+},
+{
+    imgsrc: Menu,
+    title:"Responsive Menu design " ,
+    Text: "Third Project On React Js",
+    view: "https://hotel-menu-umber.vercel.app/",
+    source: "https://github.com/Dhananjya/Hotel-Menu",
 },
 ];
 
